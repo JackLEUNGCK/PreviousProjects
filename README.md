@@ -1,17 +1,17 @@
 ## Hi there
 
-I am Jack from Hong Kong and I am a VR game programmmer. I mainly use Unreal Engine and Unity for the projects. I am also trying to develop AR and MR game. 
+I am Jack from Hong Kong and I am a VR game programmer. I mainly use Unreal Engine and Unity for projects. I am also trying to develop AR and MR games. 
 
 Currently I have finished two VR games during internship: "FTLife Game of Life" and "SOUL Keeper"
 
 ### FTLife Game of Life
-It is a multiplayer game using Unreal Engine and the EOC plugin. It includes main game as well as two mingames to simulate the events people will face during their lifetime. The game uses third person perspective for the main game and first person for the minigames. This game allows 1-4 players to participate with one player hosts as server.
+It is a multiplayer game using Unreal Engine and the EOC plugin. It includes the main game as well as two minigames to simulate the events people will face during their lifetime. The game uses third-person perspective for the main game and first-person for the minigames. This game allows 1-4 players to participate with one player hosting as the server.
 
 Project demo video:
 https://youtu.be/1Z9pxqcT-98
 
 ### Scout SOUL Keeper VR Game
-It is a Unreal Engine first person single player game. The game consist of pizzle game and game loop feature like "Twelve Minutes". Player first need to overcome 3 challenges before they can meet "Sam" and start their communication. Player only know their reply selections are true when entering good ending.
+It is a Unreal Engine first-person single player game. The game consist of pizzle game and game loop feature like "Twelve Minutes". Player first need to overcome 3 challenges before they can meet "Sam" and start their communication. Player only know their reply selections are true when entering good ending.
 
 Classroom
 ![WhatsApp Image 2023-03-01 at 12 58 36 PM](https://user-images.githubusercontent.com/101535512/224227892-4d6d2529-b62b-47e4-a701-c2f4df45e860.jpeg)

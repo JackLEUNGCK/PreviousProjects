@@ -19,7 +19,7 @@ Classroom
 Science Room
 ![WhatsApp Image 2023-03-01 at 12 58 38 PM](https://user-images.githubusercontent.com/101535512/224228054-9906addf-04d8-4604-8124-f674c15c2d5e.jpeg)
 
-First person with interactive environment
+Interactive environment
 ![WhatsApp Image 2023-03-01 at 12 58 38 PM (1)](https://user-images.githubusercontent.com/101535512/224229675-078d94a8-56c3-488b-b7db-5b7fbb37f01a.jpeg)
 
 Choosing reply when communciating with Sam

@@ -1,6 +1,6 @@
 ## Hi there
 
-I am Jack from Hong Kong and I am a VR game programmer. I mainly use Unreal Engine and Unity for projects. I am also trying to develop AR and MR games. 
+I am Jack from Hong Kong. I mainly use Unreal Engine and Unity for projects. I am also trying to develop AR and MR games. 
 
 Currently I have finished two VR games during internship: "FTLife Game of Life" and "SOUL Keeper"
 
